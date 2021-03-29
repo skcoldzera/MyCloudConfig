@@ -1,2 +1,4 @@
+server:
+  port: 3356
 config:
   info: "config-client info for prod(master)"
